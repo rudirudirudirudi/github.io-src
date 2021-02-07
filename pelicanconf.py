@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'ich'
-SITENAME = '"Besser Texten!"'
+AUTHOR = 'Rüdiger'
+SITENAME = 'Wieder Besser Texten'
 SITEURL = ''
 
 PATH = 'content'
